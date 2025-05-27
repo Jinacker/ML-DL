@@ -2,9 +2,11 @@
 
 ## 자기소개
 안녕하세요! 👋  
-저는 파이썬을 공부하고 있는 개발자입니다.
+저는 파이썬을 공부하고 있는 학생입니다.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+📚Studying: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact)
 
 ## 📬 연락처
 <a href="mailto:example@example.com">
