@@ -16,3 +16,5 @@
 <a href="https://www.instagram.com/your_instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
+
+https://www.notion.so/DEBUG-Github-2008ae567af2804bbd47c0ffabb472d5?pvs=4
